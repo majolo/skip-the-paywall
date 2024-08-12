@@ -1,4 +1,4 @@
-# Unblocking Extension for Chrome
+# Skip-the-paywall Chrome Extension
 
 ## Install Deps
 
