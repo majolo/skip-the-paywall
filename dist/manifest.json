@@ -12,7 +12,7 @@
     },
     "content_scripts": [
       {
-        "matches": ["https://www.economist.com/*", "https://www.ft.com/*"],
+        "matches": ["*://*/*"],
         "js": ["content.js"]
       }
     ]
